@@ -1,0 +1,10 @@
+git config --global user.name "usrname"
+git config --global user.email "usrname@gmail"
+SSL error -> git config --global http.sslverify false
+--------------------------------------------------------
+insert > add > commit > push
+1. git clone "link"
+2. git add "filename"
+3. git commit -m "any messages"
+4. git push origin main
+----------------------------------------------------------
